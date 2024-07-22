@@ -11,7 +11,7 @@ Welcome to our project! This is a blog website about our experiences as web deve
 
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Apache License Version 2.0
 
 ## Contact
 - **Ypzar John Sandoval** - [LinkedIn](https://www.linkedin.com)
