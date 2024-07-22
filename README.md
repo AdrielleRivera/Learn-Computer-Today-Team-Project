@@ -7,7 +7,7 @@ Table of Contents:
 # Project Name - Learn Computer Today Philippines Team One Project.
 
 ## Introduction
-Welcome to our project! This is a blog website abour our experiences as a web developer. Built with HTML, CSS, and JavaScript, soon we will upgrade and will make it a social media for professionals. We are a group of aspiring web developers, we want to share our portfolio, experiences, journey and our social medias. If possible, we can upgrade and develop a website or application that can help connect other web developers or any professionals.
+Welcome to our project! This is a blog website about our experiences as web developers. Built with HTML, CSS, and JavaScript, we will soon upgrade it to become a social media platform for professionals. We are a group of aspiring web developers, and we want to share our portfolio, experiences, journey, and social media links. In the future, we plan to develop a website or application that can help connect other web developers or any professionals.
 
 
 ## License
